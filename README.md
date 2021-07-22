@@ -1,16 +1,37 @@
-# *programmer's memo project made with Node.js*
+## node-Memo & programming memo
 
-***Programmer's memo is for all of us, to help us with reminders.*** 
+**programming-memo** 
 
+An application used to store memos for programming like codes, shortcuts etc.. you named it, built with Node.js.
 
-# Demo of the website can be found here: https://programming-memo.herokuapp.com/
+## Installation and Setup Instructions
 
-**So you may ask how this will work, well I have the explanation for you:**
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
-1.You register if you don't have account or login if you have account
+Installation:
 
-2.You find codes, commands etc... that you need
+`npm install`  
 
-3.You press the submit memo button
+To Start Server:
 
-4.You write code, commands etc.. you named it	
+`npm start` 
+
+To Visit App:
+
+`localhost:3000`  
+
+## Reflection
+
+  - This was a side project that I made while I was learning about authentication, security and  OAuth
+  - This project I mainly build it for myself because I wanted to store all the codes that use on the cloud I didn't want to be in notepad because there are going to be times when I learn something and I wouldn't be on my computer
+  - This project was really challenging and it was the best learning experience
+  - There were some obstacles but I defeated them quickly
+  - Tools that I used in this project were:
+    **HTML5**
+    **CSS3**
+   **JavaScript**
+   **Node.js**
+   **Passport.js**
+   **Google OAuth**
+   **Facebook OAuth**
+   **Github OAuth**  
