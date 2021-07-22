@@ -4,6 +4,11 @@
 
 An application used to store memos for programming like codes, shortcuts etc.. you named it, built with Node.js.
 
+
+## Screen from the site:
+
+![node-memo](node-Memo.gif)
+
 ## Installation and Setup Instructions
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
