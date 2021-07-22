@@ -31,6 +31,7 @@ To Visit App:
     **CSS3**
    **JavaScript**
    **Node.js**
+   **EJS**
    **Passport.js**
    **Google OAuth**
    **Facebook OAuth**
